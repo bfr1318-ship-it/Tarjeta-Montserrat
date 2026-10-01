@@ -1,0 +1,15 @@
+{
+  "name": "Montserrat Momán · Fundación España África",
+  "short_name": "Montserrat Momán",
+  "description": "Tarjeta digital de Montserrat Momán Pampillo, Directora de Fundación España África.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "es",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
